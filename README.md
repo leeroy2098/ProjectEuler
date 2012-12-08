@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-My solutions for Project Euler problems in several languages.
+My solutions for Project Euler problems in several languages, mainly Haskell.
