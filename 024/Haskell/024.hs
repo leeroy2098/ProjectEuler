@@ -1,0 +1,1 @@
+(sort (permutations ['0'..'9'])) !! 999999
