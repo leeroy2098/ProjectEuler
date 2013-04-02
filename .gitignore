@@ -1,3 +1,4 @@
+# Haskell default ignores
 dist
 cabal-dev
 *.o
@@ -5,3 +6,7 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+
+# Sublime Project files
+*.sublime-project
+*.sublime-workspace
